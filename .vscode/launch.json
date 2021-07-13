@@ -6,6 +6,118 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch MaxProfit_122",
+            "request": "launch",
+            "mainClass": "LeetCode.LeetCode.MaxProfit_122",
+            "projectName": "LearningDesignPattern_9d88a71b"
+        },
+        {
+            "type": "java",
+            "name": "Launch MenuTestDrive",
+            "request": "launch",
+            "mainClass": "iterator.dinermerger.MenuTestDrive",
+            "projectName": "LearningDesignPattern_9d88a71b"
+        },
+        {
+            "type": "java",
+            "name": "Launch BeverageTestDrive",
+            "request": "launch",
+            "mainClass": "templebarista.barista.BeverageTestDrive",
+            "projectName": "LearningDesignPattern_9d88a71b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Barista",
+            "request": "launch",
+            "mainClass": "templebarista.simplebarista.Barista",
+            "projectName": "LearningDesignPattern_9d88a71b"
+        },
+        {
+            "type": "java",
+            "name": "Launch RemoteComtrolTest",
+            "request": "launch",
+            "mainClass": "Command.simpleremote.RemoteComtrolTest",
+            "projectName": "LearningDesignPattern_9d88a71b"
+        },
+        {
+            "type": "java",
+            "name": "Launch SingletonClient",
+            "request": "launch",
+            "mainClass": "Singleton.breakSingleton.SingletonClient",
+            "projectName": "LearningDesignPattern_9d88a71b"
+        },
+        {
+            "type": "java",
+            "name": "Launch SingletonClient",
+            "request": "launch",
+            "mainClass": "Singleton.threadsafe.SingletonClient",
+            "projectName": "LearningDesignPattern_9d88a71b"
+        },
+        {
+            "type": "java",
+            "name": "Launch FindMinArrowShots_452",
+            "request": "launch",
+            "mainClass": "LeetCode.LeetCode.FindMinArrowShots_452",
+            "projectName": "LearningDesignPattern_9d88a71b"
+        },
+        {
+            "type": "java",
+            "name": "Launch PizzaTestDrive",
+            "request": "launch",
+            "mainClass": "pizzas.PizzaTestDrive",
+            "projectName": "LearningDesignPattern_9d88a71b"
+        },
+        {
+            "type": "java",
+            "name": "Launch FindMinArrowShots_452",
+            "request": "launch",
+            "mainClass": "LeetCode.FindMinArrowShots_452",
+            "projectName": "LearningDesignPattern_9d88a71b"
+        },
+        {
+            "type": "java",
+            "name": "Launch FindMinArrowShots_452",
+            "request": "launch",
+            "mainClass": "FindMinArrowShots_452",
+            "projectName": "LearningDesignPattern_9d88a71b"
+        },
+        {
+            "type": "java",
+            "name": "Launch SingletonClient",
+            "request": "launch",
+            "mainClass": "Singleton.SingletonClient",
+            "projectName": "LearningDesignPattern_9d88a71b"
+        },
+        {
+            "type": "java",
+            "name": "Launch CanPlaceFlowers_605",
+            "request": "launch",
+            "mainClass": "LeetCode.CanPlaceFlowers_605",
+            "projectName": "LearningDesignPattern_9d88a71b"
+        },
+        {
+            "type": "java",
+            "name": "Launch PizzaTestDrive",
+            "request": "launch",
+            "mainClass": "PizzaTestDrive",
+            "projectName": "LearningDesignPattern_9d88a71b"
+        },
+        {
+            "type": "java",
+            "name": "Launch DuckSimulator",
+            "request": "launch",
+            "mainClass": "DuckSimulator",
+            "projectName": "LearningDesignPattern_9d88a71b"
+        },
+        {
+            "type": "java",
+            "name": "Launch CanPlaceFlowers_605",
+            "request": "launch",
+            "mainClass": "CanPlaceFlowers_605",
+            "projectName": "LearningDesignPattern_9d88a71b"
+        },
+        {
+            "type": "java",
             "name": "Launch PizzaTestDrive",
             "request": "launch",
             "mainClass": "Factory.pizzaaf.PizzaTestDrive",
@@ -30,13 +142,6 @@
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
-        },
-        {
-            "type": "java",
-            "name": "Launch CanPlaceFlowers_605",
-            "request": "launch",
-            "mainClass": "LeetCode.CanPlaceFlowers_605",
-            "projectName": "LearningDesignPattern_9d88a71b"
         },
         {
             "type": "java",

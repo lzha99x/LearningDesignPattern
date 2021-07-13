@@ -5,7 +5,7 @@
  * 输入：flowerbed = [1,0,0,0,1], n = 2
  * 输出：false
 */
-package LeetCode;
+package LeetCode.LeetCode;
 
 public class CanPlaceFlowers_605 {
     public boolean canPlaceFlowers(int[] flowerbed, int n) {
