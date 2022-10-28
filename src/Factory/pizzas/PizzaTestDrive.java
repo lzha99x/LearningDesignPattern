@@ -8,5 +8,9 @@ public class PizzaTestDrive {
         Pizza pizza = store.orderPizza(PizzaType.CHEESE);
         System.out.println("We ordered a " + pizza.getName());
         System.out.println(pizza.toString());
+
+        System.out.println("-----------line------------");
+        Pizza pizza2 = store.orderPizza(PizzaType.TEST);
+        System.out.println(pizza2.toString());
     }
 }

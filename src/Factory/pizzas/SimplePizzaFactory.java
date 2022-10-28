@@ -11,6 +11,8 @@ public class SimplePizzaFactory {
             case PizzaType.CHEESE:
                 pizza = new CheesePizza();
             break;
+            default:
+                pizza = new NullPizza();
         }
         return pizza;
     }
