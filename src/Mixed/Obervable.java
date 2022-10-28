@@ -24,7 +24,7 @@ public class Obervable implements QuackObservable{
         Iterator<Observer> iterator =  Observers.iterator();
         while (iterator.hasNext()) {
             Observer observer = (Observer)iterator.next();
-            observer.update(duck, this);
+            // observer.update(duck, this);
         }
     }
     

@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch PizzaTestDrive",
+            "request": "launch",
+            "mainClass": "Factory.pizzas.PizzaTestDrive",
+            "projectName": "LearningDesignPattern_f0666546"
+        },
+        {
+            "type": "java",
             "name": "Launch MaxProfit_122",
             "request": "launch",
             "mainClass": "LeetCode.LeetCode.MaxProfit_122",
