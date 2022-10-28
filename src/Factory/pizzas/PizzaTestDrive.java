@@ -5,7 +5,7 @@ public class PizzaTestDrive {
         SimplePizzaFactory factory = new SimplePizzaFactory();
         PizzaStore store = new PizzaStore(factory);
 
-        Pizza pizza = store.orderPizza("cheese");
+        Pizza pizza = store.orderPizza(PizzaType.CHEESE);
         System.out.println("We ordered a " + pizza.getName());
         System.out.println(pizza.toString());
     }

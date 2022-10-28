@@ -7,8 +7,10 @@ public class SimplePizzaFactory {
     public Pizza createPizza(String type) {
         Pizza pizza = null;
 
-        if (type.equals("cheese")) {
-            pizza = new CheesePizza();
+        switch (type) {
+            case PizzaType.CHEESE:
+                pizza = new CheesePizza();
+            break;
         }
         return pizza;
     }
